@@ -13,11 +13,11 @@ Based on the calculated BMI, it provides information about the user's weight sta
 
 ## Live Demo
 
-You can try out the live BMI calculator [here](https://your-bmi-calculator-url.com).
+You can try out the live BMI calculator [here](https://abedalmajed.github.io/BMI-Calculator/).
 
 ## Screenshots
 
-![BMI Calculator]("images/BMI.png")
+![BMI Calculator](images/BMI.png)
 
 ## Features
 
