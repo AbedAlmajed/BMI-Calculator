@@ -5,10 +5,6 @@ This is a simple BMI (Body Mass Index) calculator implemented in HTML, CSS, and 
 
 ## Description
 
-The BMI calculator calculates the BMI using the formula:
-
-\[ \text{BMI} = \frac{\text{weight (kg)}}{\text{height (m)}^2} \]
-
 Based on the calculated BMI, it provides information about the user's weight status, whether they are underweight, normal, overweight, obese, or extremely obese.
 
 ## Live Demo
